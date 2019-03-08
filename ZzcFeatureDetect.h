@@ -1,0 +1,2 @@
+int ZzcHough(BYTE*pImg,int width,int height,int N,double *radius,double RadiusStep, double *radian,double RadianStep);
+void ZzcCircleDetect(BYTE *pImg, int width, int height, int R,int error, int RStep, int &xt, int &yt, int &r);

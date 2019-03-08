@@ -1,0 +1,1 @@
+void Rotate(BYTE *pImg,int width,int height,double p,BYTE *pResImg);
